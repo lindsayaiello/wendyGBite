@@ -1,0 +1,53 @@
+/*
+	styling for index.html
+*/
+/*
+	TYPICAL CSS CODE STRUCTURE
+
+	selector{
+		ruleName: ruleValue;
+	}
+*/
+
+	h1{
+		text-align: center;
+		font-style: italic;
+		font-size:40px;
+	}
+
+	a{
+		color: #00CC99;
+		font-weight: bolder;
+	}
+
+	nav{
+		text-align: center;
+		font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+		font-size: 20px;	
+	}
+	
+	h2{
+		font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+		font-size: 28px;
+	}
+
+	body{
+		padding: 50px;
+		margin: 15px 270px 70px 270px;
+		background-color: #484848;
+		border-style: solid;
+		border-color: #B0B0B0;
+		border-width: 5px;
+		text-align: wrap;
+		font-size: 18px;
+		font-family: "Lucida Bright", Georgia, serif;
+		color: white;
+	}
+
+	img{
+		float: right;
+    	border: 4px double;
+    	border-color: #B0B0B0;
+    	margin: 0px 30px 30px 30px;
+    	overflow: auto;
+	}
